@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(150, 189, 213, 0.252);
+}
+.row{
+    padding: 0;
+    margin: 20px 0;
+    justify-content: center;
+}
+.card{
+    margin: 20px;
+}
+.d-block{
+    max-height: min-content;
+}
